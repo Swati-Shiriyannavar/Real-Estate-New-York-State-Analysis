@@ -3,8 +3,8 @@
 # 1. Business Problem
 ## 1.1 Problem Context
 
-Our client is a large Real Estate Investment Trust (REIT).
-* They invest in houses, apartments, and condos(complex of buildings) within a small county in New York state.
+
+* Our client invest in houses, apartments, and condos(complex of buildings) within a small county in New York state.
 * As part of their business, they try to predict the fair transaction price of a property before it's sold.
 * They do so to calibrate their internal pricing models and keep a pulse on the market.
 
